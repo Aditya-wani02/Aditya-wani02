@@ -10,8 +10,9 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/adityawani02/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-    <a style="margin-left: 2px;" target="_blank" href="https://www.threads.net/@adityawani02">
-			<img src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638243447960000000"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.threads.net/@adityawani02">
+			<img src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638243447960000000"
+				 width="40"   height="50"></a>
 		
 </div>
 
