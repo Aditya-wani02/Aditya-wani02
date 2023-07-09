@@ -13,11 +13,9 @@
 	<a style="margin-left: 10px" target="_blank" href="https://www.instagram.com/adityawani02/">
 		<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png  "
 			width="49px" /></a>
-
 	<a style="margin-left: 10px" target="_blank" href="https://twitter.com/adityawani74409">
 		<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png"
 			width="48px" /></a>
-
 	<a style="margin-left: 10px" target="_blank" href="https://www.threads.net/@adityawani02">
 		<img src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638243447960000000"
 			width="40px" /></a>
