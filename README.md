@@ -1,21 +1,26 @@
+<h3 align="center">
+	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"
+		style="margin-right: 50px" />Contact me 🤝
+</h3>
+<p align="center"></p>
 
+<div align="center" class="icons-social" style="margin-left: 10px">
+	<a style="margin-left: 10px" target="_blank" href="https://www.linkedin.com/in/aditya-wani-ba023a215/">
+		<img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png"
+			width="48px" /></a>
+	<a style="margin-left: 10px" target="_blank" href="https://github.com/Aditya-wani02">
+		<img src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-256.png" width="48px" /></a>
+	<a style="margin-left: 10px" target="_blank" href="https://www.instagram.com/adityawani02/">
+		<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png  "
+			width="49px" /></a>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Contact  me 🤝 </h3>
-<p align="center">
+	<a style="margin-left: 10px" target="_blank" href="https://twitter.com/adityawani74409">
+		<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png"
+			width="48px" /></a>
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/aditya-wani-ba023a215/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Aditya-wani02">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/adityawani02/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.threads.net/@adityawani02">
-			<img src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638243447960000000"
-				 width="34"   height="36"></a>
-		
+	<a style="margin-left: 10px" target="_blank" href="https://www.threads.net/@adityawani02">
+		<img src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638243447960000000"
+			width="40px" /></a>
 </div>
 
-
-<br/>
-
+<br />
