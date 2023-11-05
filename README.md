@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+TAS+Beginner&pause=1000&color=2A7EF7&random=false&width=435&lines=Hey%2C%F0%9F%91%8B+I'm+Aditya+Wani;I+like+to+learn+new+stuffs" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+TAS+Beginner&pause=1000&color=2A7EF7&vCenter=true&random=false&width=435&lines=Hey%2C%F0%9F%91%8B+I'm+Aditya+Wani;I+like+to+learn+new+stuffs" alt="Typing SVG" /></a>
 
 
 
